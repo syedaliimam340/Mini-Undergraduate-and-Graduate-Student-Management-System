@@ -1,6 +1,6 @@
-
+Mini-Undergraduate-and-Graduate-Student-Management-System 
 ## 📌 Overview
-EduTrack-Cpp is a **Mini Undergraduate and Graduate Student Management-System** designed to demonstrate **Object-Oriented Programming (OOP)** principles.  
+It is a **Mini Undergraduate and Graduate Student Management-System** designed to demonstrate **Object-Oriented Programming (OOP)** principles.  
 It efficiently manages **Undergraduate** and **Graduate** students, evaluates academic progress, and tracks scholarship eligibility.
 
 
